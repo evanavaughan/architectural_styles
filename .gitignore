@@ -1,2 +1,5 @@
 #bottleneck files
 *.h5
+
+#images
+/storage
